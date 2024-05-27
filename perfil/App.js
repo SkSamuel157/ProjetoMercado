@@ -41,14 +41,13 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#D9BC9A',
     alignItems: 'center',
-    paddingTop: 50,
   },
   logoPlaceholder: {
     width: '100%',
-    height: 100,
+    height: 200,
     backgroundColor: '#A0522D', // Cor de placeholder para o logo
-    marginBottom: 20,
-    marginRightBottom:35, 
+    marginBottom: 10,
+    paddingRight: 50,
   },
   profileContainer: {
     alignItems: 'center',
