@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     marginTop: 16,
   },
   button: {
-    backgroundColor: '#591902', // Cor laranja para os botões
+    backgroundColor: '#591902',
     paddingVertical: 10,
     paddingHorizontal: 20,
     borderRadius: 5,
