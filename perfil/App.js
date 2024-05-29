@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
     height: 200,
     backgroundColor: '#A0522D', // Cor de placeholder para o logo
     marginBottom: 10,
-    paddingRight: 50,
+
   },
   profileContainer: {
     alignItems: 'center',
